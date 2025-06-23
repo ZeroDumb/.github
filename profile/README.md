@@ -12,6 +12,7 @@ Here you'll find ethical hacking tools, experimental frameworks, thought journal
 - [**Ethics Journal**](https://zerodumb.dev) — (Blog) Lessons, lab notes, and ethical hacking reflections.
 - [**Recon Toolkit**](https://github.com/ZeroDumb/recon-toolkit) — A lightweight Python toolkit for recon and passive footprinting.
 - [**Seven Sisters Framework**](https://github.com/ZeroDumb/seven-sisters) — A growing battle map for structured recon and automation.
+- [**Project Pwny](https://github.com/ZeroDumb/Z3d0tchi) - A collection of plugins, config tweaks, and experimental code for curious Pwnagotchis.
 
 ---
 
