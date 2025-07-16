@@ -9,7 +9,7 @@ Here you'll find ethical hacking tools, experimental frameworks, thought journal
 
 ## 🔥 Current Projects
 
-- [**Ethics Journal**](https://zerodumb.dev) — (Blog) Lessons, lab notes, and ethical hacking reflections.
+- [**Ethical Hacking Journal**](https://zerodumb.dev) — (Blog) Lessons, lab notes, and ethical hacking reflections.
 - [**Happy Frog**](https://github.com/ZeroDumb/happy-frog) — HID Emulation Framework for Cybersecurity Learning
 - [**Recon Toolkit**](https://github.com/ZeroDumb/recon-toolkit) — A lightweight Python toolkit for recon and passive footprinting.
 - [**Seven Sisters Framework**](https://github.com/ZeroDumb/seven-sisters) — A growing battle map for structured recon and automation.
